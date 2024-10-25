@@ -41,7 +41,7 @@ Use the following command to install the necessary libraries:
 
 
 ### Step 3: Prepare the Directory and CSV File
-1. **PDF Folder**: Place all PDFs to be encrypted and sent in a folder (e.g., `C:/Users/mahir/Desktop/Dev/Python/sop-project/pdf`).
+1. **PDF Folder**: Place all PDFs to be encrypted and sent in a folder (e.g., `<your_project_dir>/pdf`).
 2. **CSV File**: Create a CSV file with the following columns:
    - `filename`: The name of the PDF file (including `.pdf` extension).
    - `email`: The recipient's email address.
