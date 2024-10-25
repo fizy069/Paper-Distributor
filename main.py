@@ -91,6 +91,6 @@ def process_pdfs(pdf_folder, csv_file):
                 print(f"{pdf_filename} not found in {pdf_folder}")
 
 # Usage
-pdf_folder = 'C:/Users/mahir/Desktop/Dev/Python/sop-project/pdf' 
+pdf_folder = 'pdf' 
 csv_file = 'data.csv'
 process_pdfs(pdf_folder, csv_file)
